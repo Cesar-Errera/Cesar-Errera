@@ -65,7 +65,7 @@ Me chamo César Errera, tenho 20 anos e sou natural de São Paulo. Atualmente, e
     title="SQL"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg"         
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg"         
 />
 
 <br/>
