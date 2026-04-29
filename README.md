@@ -5,16 +5,10 @@
 Me chamo César Errera, tenho 20 anos e sou natural de São Paulo. Atualmente, estou cursando Engenharia de Computação na Faculdade Engenheiro Salvador Arena. Sou apaixonado por tecnologia e sigo na caminhada de aprendizado contínuo.
 
 <p align="left">
-   <div align="left">
-  <a href="https://www.instagram.com/cesar_errera?igsh=MTNhdDZkbXkyZmFlNQ%3D%3D&utm_source=qr" 
-  target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
-  
-  <a href="https://www.linkedin.com/in/c%C3%A9sar-errera-526a9a264?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-  </a>
-<p align="left">
-<a href="https://www.instagram.com/cesar_errera?igsh=MTNhdDZkbXkyZmFlNQ%3D%3D&utm_source=qr" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a><a href="https://www.linkedin.com/in/c%C3%A9sar-errera-526a9a264?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+   <a href="https://www.instagram.com/cesar_errera?igsh=MTNhdDZkbXkyZmFlNQ%3D%3D&utm_source=qr" target="_blank">
+      <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>&nbsp;&nbsp;&nbsp;&nbsp
+   <a href="https://www.linkedin.com/in/c%C3%A9sar-errera-526a9a264?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="_blank">
+      <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </p>  
 </div>
 </p>
