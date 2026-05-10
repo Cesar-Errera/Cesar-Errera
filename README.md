@@ -70,8 +70,8 @@ Me chamo César Errera, tenho 20 anos e sou natural de São Paulo. Atualmente, e
 
 ### 📊 Estatísticas
 
-<p>
-  <img align="left" alt="GitHub Stats" height="200" src="https://github-readme-stats.vercel.app/api?username=Cesar-Errera&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" />
-  
-  <img align="left" alt="Top Langs" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cesar-Errera&layout=compact" />
-</p>
+### 📊 Estatísticas
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Cesar-Errera&theme=tokyonight&show_icons=true&locale=pt-br)](https://github.com/Cesar-Errera)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cesar-Errera&layout=compact&theme=tokyonight)](https://github.com/Cesar-Errera)
