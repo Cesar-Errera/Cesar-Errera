@@ -68,4 +68,6 @@ Me chamo César Errera, tenho 20 anos e sou natural de São Paulo. Atualmente, e
 <br/>
 <br/>
 
+</div>
+
 <img src="https://raw.githubusercontent.com/Cesar-Errera/Cesar-Errera/output/pacman-contribution-graph-dark.svg" width="100%" alt="Animação do Pacman">
